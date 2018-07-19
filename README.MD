@@ -26,6 +26,4 @@ Then, add `coralo-nuxt` to the "extends" array in your .eslintrc.\* file. Make s
 
 ## License
 
----
-
 [MIT](https://github.com/coralo/eslint-config-coralo-nuxt/blob/master/LICENSE)
