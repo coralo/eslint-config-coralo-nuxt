@@ -1,3 +1,5 @@
+const rootDir = process.cwd();
+
 module.exports = {
   extends: [
     'airbnb-base', // Extends Airbnb Base
@@ -10,8 +12,8 @@ module.exports = {
           resolve: {
             extensions: ['.js', '.vue'],
             alias: {
-              '~': __dirname,
-              '@': __dirname,
+              '~': rootDir,
+              '@': rootDir,
             },
           },
         },

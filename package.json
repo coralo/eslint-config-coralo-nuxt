@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-coralo-nuxt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint-config for Nuxt",
   "main": "index.js",
   "scripts": {
