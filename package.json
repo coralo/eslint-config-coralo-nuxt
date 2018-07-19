@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-coralo-nuxt",
+  "version": "1.0.0",
+  "description": "eslint-config for Nuxt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxt",
+    "eslint",
+    "coralo"
+  ],
+  "author": "Coralo Team <team@coralo.io>",
+  "license": "MIT"
+}
